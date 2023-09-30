@@ -7,7 +7,7 @@ Developed a library Management system in which we can perform the followinf task
 4.UPDATE BOOKS
 5.VIEW THE LIST OF BOOKS
 
-# Technologies used:
+# Technologies used: 
 1. C Language
 2. Basic of DSA
 
